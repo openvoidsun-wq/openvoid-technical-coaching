@@ -1,10 +1,10 @@
-# OpenVoid Technical Coaching
+# OpenVoid Technical Rescue
 
-AI-assisted live coaching for Python, SQL, Excel, JavaScript, and automation projects.
+Paid implementation, debugging, automation, and live coaching for Python, SQL, Excel, JavaScript, and AI workflows.
 
 ## What This Is
 
-Fast technical help for learners and builders who are stuck and need a clear path forward.
+Fast technical help for learners, operators, and small teams who are stuck and need a working output or a clear path forward.
 
 Best fit:
 - Python debugging and beginner-to-intermediate learning.
@@ -14,6 +14,19 @@ Best fit:
 - AI automation workflows using APIs, webhooks, Make/Zapier-style tools, and code assistants.
 - University, bootcamp, or work projects where you need explanation, diagnosis, and momentum.
 - Tutoring companies, bootcamps, and small teams that need overflow technical rescue sessions.
+- Small businesses that need a narrow script, query, spreadsheet, or automation fixed.
+
+## Done-For-You Work
+
+For buyers who want the work done, not just explained:
+
+- Small Fix: USD 75 for one narrow bug, query, script, or workflow blocker.
+- Rescue Sprint: USD 150 for up to 2 hours of debugging, implementation, and recap.
+- Automation Micro-Build: USD 300 for a small working automation or API/webhook workflow.
+- B2B Overflow: scoped quote for contractor-style support.
+
+Details:
+[DONE_FOR_YOU.md](DONE_FOR_YOU.md)
 
 ## Contractor Profile
 
@@ -35,14 +48,14 @@ Boundaries:
 - Coaching, debugging, code review, and project rescue with explanation are accepted.
 - Exam-taking, impersonation, and hidden completion of graded submissions are not accepted.
 
-## Session Format
+## Work Format
 
-Live screen-share coaching:
+Live or async technical rescue:
 
-1. You show the code, spreadsheet, query, project, or workflow.
-2. We diagnose the blocker.
-3. I explain the failure point and guide the fix.
-4. You leave with a short recap and next-step checklist.
+1. You send the code, spreadsheet, query, project, or workflow blocker.
+2. We confirm scope and payment.
+3. I diagnose and implement a bounded fix or guide the fix live.
+4. You receive the changed output, explanation, and next-step checklist.
 
 This is coaching and technical support, not exam-taking or impersonation.
 
@@ -51,6 +64,9 @@ This is coaching and technical support, not exam-taking or impersonation.
 - First diagnostic session: USD 35 for 45 minutes.
 - Standard technical coaching: USD 60 for 60 minutes.
 - Urgent project rescue: USD 120 for 90 minutes.
+- Small done-for-you fix: USD 75.
+- Rescue sprint: USD 150.
+- Automation micro-build: USD 300.
 - Small business / professional automation coaching: quoted after scope.
 
 Payment is required before the session or through a platform-protected hourly/escrow contract.
