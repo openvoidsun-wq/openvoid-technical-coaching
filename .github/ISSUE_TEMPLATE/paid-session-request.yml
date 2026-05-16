@@ -1,0 +1,69 @@
+name: Paid Session Request
+description: Request a prepaid technical coaching session or B2B overflow pilot.
+title: "Paid session request: "
+labels: ["paid-session-request"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form for paid technical coaching, project rescue, or B2B overflow support.
+        Do not include private credentials, school login details, API keys, or sensitive client data.
+  - type: dropdown
+    id: session_type
+    attributes:
+      label: Session type
+      options:
+        - Diagnostic - USD 35 / 45 min
+        - Standard coaching - USD 60 / 60 min
+        - Urgent rescue - USD 120 / 90 min
+        - B2B overflow pilot - scoped quote
+    validations:
+      required: true
+  - type: input
+    id: topic
+    attributes:
+      label: Topic
+      placeholder: Python, SQL, Excel, JavaScript, AI automation, AP CS, etc.
+    validations:
+      required: true
+  - type: textarea
+    id: blocker
+    attributes:
+      label: Current blocker
+      description: Describe the issue, error, or goal. Keep confidential data out.
+    validations:
+      required: true
+  - type: input
+    id: deadline
+    attributes:
+      label: Deadline
+      placeholder: Date/time and timezone
+    validations:
+      required: true
+  - type: textarea
+    id: tried
+    attributes:
+      label: What you already tried
+      description: Briefly list attempted fixes or learning resources.
+    validations:
+      required: false
+  - type: dropdown
+    id: payment_method
+    attributes:
+      label: Payment method
+      options:
+        - Platform hourly contract
+        - Escrow milestone
+        - Prepaid invoice
+        - Celo Mainnet transfer
+        - Need to discuss
+    validations:
+      required: true
+  - type: input
+    id: contact
+    attributes:
+      label: Contact email
+      description: Use the email where you want scheduling details sent.
+    validations:
+      required: true
+

@@ -57,6 +57,9 @@ Full payment and booking details:
 
 Email: openvoidsun@gmail.com
 
+Paid session request form:
+https://github.com/openvoidsun-wq/openvoid-technical-coaching/issues/new?template=paid-session-request.yml
+
 When contacting, include:
 - subject/topic,
 - deadline,
