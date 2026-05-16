@@ -58,6 +58,9 @@ Payment is required before the session or through a platform-protected hourly/es
 Full payment and booking details:
 [PAYMENT_AND_BOOKING.md](PAYMENT_AND_BOOKING.md)
 
+Contractor profile for tutoring companies and mentor networks:
+[CONTRACTOR_PROFILE.md](CONTRACTOR_PROFILE.md)
+
 ## Good Requests
 
 - "Help me understand this Python error."
