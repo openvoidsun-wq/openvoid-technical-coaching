@@ -61,6 +61,9 @@ Full payment and booking details:
 Contractor profile for tutoring companies and mentor networks:
 [CONTRACTOR_PROFILE.md](CONTRACTOR_PROFILE.md)
 
+Short contractor resume:
+[CONTRACTOR_RESUME.md](CONTRACTOR_RESUME.md)
+
 ## Good Requests
 
 - "Help me understand this Python error."
