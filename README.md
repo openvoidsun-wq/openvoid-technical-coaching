@@ -34,6 +34,9 @@ This is coaching and technical support, not exam-taking or impersonation.
 
 Payment is required before the session or through a platform-protected hourly/escrow contract.
 
+Full payment and booking details:
+[PAYMENT_AND_BOOKING.md](PAYMENT_AND_BOOKING.md)
+
 ## Good Requests
 
 - "Help me understand this Python error."
@@ -60,6 +63,7 @@ When contacting, include:
 - what tool/language you are using,
 - screenshot or short error text if relevant,
 - preferred time zone.
+- payment method or platform contract link.
 
 ## Fast Intake Template
 
@@ -73,4 +77,3 @@ What I already tried:
 Preferred session time:
 Payment method/platform:
 ```
-
