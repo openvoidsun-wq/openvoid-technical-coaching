@@ -214,6 +214,36 @@
         padding-left: 20px;
       }
 
+      .profile-band {
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        background: var(--panel);
+        padding: 24px;
+      }
+
+      .profile-band p {
+        margin: 0;
+        color: var(--muted);
+        line-height: 1.55;
+      }
+
+      .profile-list {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 12px;
+        margin: 18px 0 0;
+        padding: 0;
+        list-style: none;
+      }
+
+      .profile-list li {
+        border-left: 3px solid var(--green);
+        background: #f3f8f5;
+        padding: 12px 14px;
+        color: var(--ink);
+        line-height: 1.4;
+      }
+
       .price-table {
         width: 100%;
         border-collapse: collapse;
@@ -312,6 +342,10 @@
           grid-template-columns: 1fr;
         }
 
+        .profile-list {
+          grid-template-columns: 1fr;
+        }
+
         .cta-band {
           align-items: stretch;
           flex-direction: column;
@@ -393,6 +427,23 @@
             <h3>B2B Overflow</h3>
             <p>Small tutoring operators can route technical rescue sessions or paid pilot overflow work.</p>
           </article>
+        </div>
+      </section>
+
+      <section class="section" aria-labelledby="contractor-profile">
+        <h2 id="contractor-profile">Contractor Profile</h2>
+        <div class="profile-band">
+          <p>
+            For tutoring centers, bootcamps, and small teams that need a fast paid pilot before adding
+            an overflow technical coach. Best use is a stuck learner, internal sample case, or short
+            project rescue that needs diagnosis, explanation, and a written recap.
+          </p>
+          <ul class="profile-list">
+            <li>Python, SQL, JavaScript, Excel/data, APIs, automation, and AI workflow coaching.</li>
+            <li>Paid pilot: USD 35 / 45 minutes, prepaid or through platform hourly/escrow.</li>
+            <li>Screen-share debugging with plain-language explanation and next steps.</li>
+            <li>No unpaid trials, exam-taking, impersonation, or hidden graded-work completion.</li>
+          </ul>
         </div>
       </section>
 

@@ -13,6 +13,27 @@ Best fit:
 - JavaScript / web project troubleshooting.
 - AI automation workflows using APIs, webhooks, Make/Zapier-style tools, and code assistants.
 - University, bootcamp, or work projects where you need explanation, diagnosis, and momentum.
+- Tutoring companies, bootcamps, and small teams that need overflow technical rescue sessions.
+
+## Contractor Profile
+
+Useful for teams that need a low-friction paid pilot before adding a new contractor.
+
+Available support:
+- Python, SQL, JavaScript, Excel/data, APIs, automation, AI workflow coaching.
+- Live screen-share debugging and learner explanation.
+- Short written recap after each session.
+- Contractor-style overflow for tutoring centers and small education operators.
+
+Pilot model:
+- USD 35 / 45-minute diagnostic pilot.
+- One learner scenario or internal sample case.
+- Prepaid, escrow, platform hourly contract, or confirmed transfer before work starts.
+- No unpaid trials or pay-after-result work.
+
+Boundaries:
+- Coaching, debugging, code review, and project rescue with explanation are accepted.
+- Exam-taking, impersonation, and hidden completion of graded submissions are not accepted.
 
 ## Session Format
 
